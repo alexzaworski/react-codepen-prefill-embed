@@ -1,0 +1,11 @@
+{
+  "extends": ["tslint:recommended", "tslint-config-prettier"],
+  "rules": {
+    "quotemark": [true, "single", "jsx-double"],
+    "trailing-comma": [false],
+    "curly": [true, "ignore-same-line"],
+    "interface-name": [true, "never-prefix"],
+    "object-literal-sort-keys": [true],
+    "variable-name": [true, "allow-leading-underscore", "allow-pascal-case"]
+  }
+}

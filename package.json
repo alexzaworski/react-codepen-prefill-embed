@@ -1,6 +1,6 @@
 {
   "name": "react-codepen-prefill-embed",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A React wrapper for CodePen's prefill embed API",
   "main": "index.js",
   "files": [

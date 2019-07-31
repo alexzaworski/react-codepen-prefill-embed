@@ -1,4 +1,4 @@
-# React CodPen Prefill Embed
+# React CodePen Prefill Embed
 
 An unofficial, TypeScript-powered React wrapper around CodePen's very-official [Prefill Embed API.](https://blog.codepen.io/documentation/prefill-embeds/)
 

@@ -12,7 +12,7 @@ From CodePen's docs:
 
 > CodePen Prefill Embeds are designed to render that code for you in a safe and isolated environment to help your users see, understand, and play with it more easily.
 
-This wrapper might be a good fit for you if you're already using React to power something like a blog (maybe with [Gatsby](https://www.gatsbyjs.org/) or [Next.js](https://www.gatsbyjs.org/)) and don't wanna fuss about things like [escaping markup](https://blog.codepen.io/documentation/prefill-embeds/#what-could-go-wrong-2).
+This wrapper might be a good fit for you if you're already using React to power something like a blog (maybe with [Gatsby](https://www.gatsbyjs.org/) or [Next.js](https://www.gatsbyjs.org/)) and don't wanna fuss about with things like [escaping markup](https://blog.codepen.io/documentation/prefill-embeds/#what-could-go-wrong-2).
 
 ## Installation
 
@@ -27,7 +27,7 @@ import {
   PrefillLang,
   useCodePenEmbed,
   stripIndent
-} = from 'react-codepen-prefill-embed`;
+} = from 'react-codepen-prefill-embed';
 // ...
 ```
 
